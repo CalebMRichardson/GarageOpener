@@ -1,4 +1,4 @@
-package com.f_star_k.GarageOpener;
+package com.calebrichardson.GarageOpener;
 
 import java.net.*;
 import java.io.*;

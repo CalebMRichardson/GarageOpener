@@ -1,4 +1,4 @@
-package com.f_star_k.GarageOpener;
+package com.calebrichardson.GarageOpener;
 
 import com.pi4j.io.gpio.GpioController;
 import com.pi4j.io.gpio.GpioFactory;
